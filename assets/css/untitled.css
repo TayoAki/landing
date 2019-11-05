@@ -38,3 +38,8 @@ section.features .section-heading p {
 .device-mockup > .device {
 }
 
+#features {
+  background-image: url("../../assets/img/Backgroundborder.png");
+  background-repeat: round;
+}
+
