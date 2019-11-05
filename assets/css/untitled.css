@@ -1,0 +1,40 @@
+#logo {
+  max-height: 200px;
+  margin-bottom: -30px;
+  display: inline-block;
+}
+
+.col.text-center {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+.col.text-center {
+  margin-top: -90px;
+}
+
+.display-1.text-break.text-center {
+  word-break: break-all;
+}
+
+.display-1.text-center {
+  word-break: break-word;
+}
+
+hr {
+  max-width: 600px;
+  margin: 25px auto 0;
+  border-width: 10px;
+  border-color: rgba(34,34,34,.1);
+}
+
+.logo {
+}
+
+section.features .section-heading p {
+  margin-top: 30px;
+}
+
+.device-mockup > .device {
+}
+
